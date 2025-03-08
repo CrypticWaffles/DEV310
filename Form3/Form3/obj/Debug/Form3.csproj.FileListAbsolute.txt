@@ -1,0 +1,10 @@
+E:\DevDrive\DEV310\DEV310\Form3\Form3\bin\Debug\Form3.exe.config
+E:\DevDrive\DEV310\DEV310\Form3\Form3\bin\Debug\Form3.exe
+E:\DevDrive\DEV310\DEV310\Form3\Form3\bin\Debug\Form3.pdb
+E:\DevDrive\DEV310\DEV310\Form3\Form3\obj\Debug\Form3.csproj.AssemblyReference.cache
+E:\DevDrive\DEV310\DEV310\Form3\Form3\obj\Debug\Form3.Form1.resources
+E:\DevDrive\DEV310\DEV310\Form3\Form3\obj\Debug\Form3.Properties.Resources.resources
+E:\DevDrive\DEV310\DEV310\Form3\Form3\obj\Debug\Form3.csproj.GenerateResource.cache
+E:\DevDrive\DEV310\DEV310\Form3\Form3\obj\Debug\Form3.csproj.CoreCompileInputs.cache
+E:\DevDrive\DEV310\DEV310\Form3\Form3\obj\Debug\Form3.exe
+E:\DevDrive\DEV310\DEV310\Form3\Form3\obj\Debug\Form3.pdb
